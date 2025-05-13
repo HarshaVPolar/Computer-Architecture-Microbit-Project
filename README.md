@@ -142,14 +142,14 @@ Create an LED animation system using **pure ARM Assembly**, bypassing MicroPytho
 
 ---
 
-## 👥 Team Members
+## 👥 Team Members and Contributions
 
-- **P Jaya Raghunandhan Reddy** - BT2024029  
-- **Pasham Godha** - BT2024082  
-- **Varanasi Harshith Raj** - BT2024177  
-- **Hasini Samudrala** - BT2024113  
-- **Polareddy Harshavardhan Reddy** - BT202406  
-- **Gangavarapu Jaswant** - BT2024010
+- **P Jaya Raghunandhan Reddy** - BT2024029  - Dino game
+- **Pasham Godha** - BT2024082 - lightshow and arm debugging
+- **Varanasi Harshith Raj** - BT2024177 - patterns
+- **Hasini Samudrala** - BT2024113 - lightshow and arm debugging
+- **Polareddy Harshavardhan Reddy** - BT202406 - Battleship
+- **Gangavarapu Jaswant** - BT2024010 - Tag game
 
 ---
 
